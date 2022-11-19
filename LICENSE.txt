@@ -1,5 +1,6 @@
 === BT License ===
 Version 1, 18 November 2022
+https://github.com/Busituteng/BT-License
 
 1. BT and her affiliated or owned teams are permitted to copy, use and change this license document.
 2. If the conditions are met, others are permitted to use the license document, but changing it is not allowed.
@@ -20,6 +21,7 @@ Version 1, 18 November 2022
 
 === 兔耳许可证 ===
 版本 1， 2022年11月18日
+https://github.com/Busituteng/BT-License
 
 1. BT及其所属或拥有的团队被允许复制、使用和更改本许可文件。
 2. 如果满足条件，其他人可以使用许可证文档，但不允许更改。
