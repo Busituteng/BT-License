@@ -5,4 +5,4 @@ BT License及其衍生品的存储和管理页面。
 
 The storage and management page of BT License and its derivatives.
 
-[![btlicense.png](https://i.postimg.cc/htF4SjDK/btlicense.png)](https://postimg.cc/VdRPgz0h)
+![btlicense.png](https://i.postimg.cc/htF4SjDK/btlicense.png)
